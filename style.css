@@ -97,7 +97,8 @@ h2 {
 }
 
 footer {
-    background-color: #333; 
+    background-color: #333333c4; 
+    backdrop-filter: blur(3px);
     font-family: 'Inter', sans-serif;
     font-weight: 600; /* ExtraBold 800 weight */
     color: #fff;
