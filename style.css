@@ -6,7 +6,7 @@ body {
     background-color: #f8f8f8;
     color: #333; 
     padding-top: 157px; 
-    padding-bottom: 2px;
+    padding-bottom: 11px;
     margin: 0;
     background: linear-gradient(to top, #05214b, #242425); /* Dark blue to gray-black gradient */
 }
