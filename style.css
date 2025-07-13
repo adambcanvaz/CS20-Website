@@ -13,6 +13,7 @@ body {
 
 header {
     background-color: rgba(3, 41, 82, 0.95);
+    backdrop-filter: 12px
     font-family: 'Inter', sans-serif;
     color: #fff;
     padding: 1em 20px;
