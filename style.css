@@ -5,7 +5,7 @@ body {
     padding: 0;
     background-color: #f8f8f8;
     color: #333; 
-    padding-top: 185px; 
+    padding-top: 157px; 
     padding-bottom: 2px;
     margin: 0;
     background: linear-gradient(to top, #05214b, #242425); /* Dark blue to gray-black gradient */
@@ -19,10 +19,10 @@ header {
     padding: 1em 20px;
     border-radius: 10px;
     position: fixed; 
-    top: 20px; 
+    top: 2px; 
     left: 0;
     right: 0;
-    margin: 20px;
+    margin: 6px;
     width: auto;
     display: flex;
     align-items: center;
@@ -81,7 +81,7 @@ nav a:hover {
 
 section {
     padding: 20px;
-    margin: 20px; 
+    margin: 6px; 
     background-color: #fff; 
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -105,10 +105,11 @@ footer {
     border-radius: 10px; 
     width: calc(100% - 40px); 
     position: relative;
+    top: 6px;
     bottom: 0; 
     left: 0;
     right: 0;
-    margin: 20px;
+    margin: 6px;
     width: auto;
 }
 
